@@ -1,0 +1,35 @@
+.div-a {
+    background-color: #FF69B4;
+    width: 500px;
+    height: 500px;
+}
+
+/* Estilos para Div B */
+.div-b {
+    background-color: #87CEEB;
+    width: 50%;
+    height: 50%;
+}
+
+/* Estilos para Parágrafo em Div B */
+.div-b p {
+    color: #FFFFFF;
+    background-color: #FF4500;
+    font-size: 24px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+/* Estilos para Div D */
+.div-d {
+    background-color: #32CD32;
+    width: 50%;
+    height: 50vh;
+}
+
+/* Estilos para Div E */
+.div-e {
+    background-color: #FFFF00;
+    width: 75vw;
+    height: 50%;
+}
